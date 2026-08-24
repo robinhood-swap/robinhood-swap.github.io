@@ -1,0 +1,24 @@
+# Robinhood Swap — Swap on Robinhood Chain Reference
+
+> Trade ETH, USDC and tokens on Robinhood Chain — the EVM layer 2 — through a non-custodial decentralized exchange. Independent, not affiliated with Robinhood.
+
+## Key Facts
+- Robinhood Chain: EVM-compatible Ethereum layer 2 built with Arbitrum technology
+- Gas: paid in ETH on Robinhood Chain
+- Custody: non-custodial — swaps settle through public smart contracts; wallet signs
+- Costs: DEX pool fee + network gas (ETH) + price impact; ERC-20 spend needs a one-time approval
+- Common pairs: ETH <-> USDC / USDT and other tokens with on-chain liquidity
+- Independent resource — NOT affiliated with or endorsed by Robinhood
+
+## Internal Sections & App Navigation
+- [What is Robinhood Swap?](#what)
+- [How swapping works](#how)
+- [Robinhood Chain network](#network)
+- [Tokens & pairs](#tokens)
+- [Fees, gas & price impact](#fees)
+- [Is it safe?](#safety)
+- [FAQ](#faq)
+- [Open Robinhood Swap App](dashboard/index.html)
+
+## Disclaimer
+Independent page. Not affiliated with or endorsed by Robinhood. Not financial advice.

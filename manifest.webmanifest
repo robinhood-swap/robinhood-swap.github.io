@@ -1,0 +1,12 @@
+{
+  "name": "Robinhood Swap",
+  "short_name": "Robinhood Swap",
+  "description": "Trade ETH, USDC and tokens on Robinhood Chain through a non-custodial decentralized exchange. Not affiliated with Robinhood.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "lang": "en",
+  "background_color": "#0a0e14",
+  "theme_color": "#0a0e14",
+  "icons": [{ "src": "eth.png", "sizes": "any", "type": "image/png", "purpose": "any" }]
+}
